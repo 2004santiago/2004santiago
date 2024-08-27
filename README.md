@@ -32,4 +32,5 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api2004santiagoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2004santiago)](https://github.com/anuraghazra/github-readme-stats)
+
