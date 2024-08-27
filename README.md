@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -63,4 +69,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/2004santiago/2004santiago/output/snake.svg" alt="Snake animation" />
+
+###
 
