@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/2004santiago/2004santiago/output/snake.svg" alt="Snake animation" />
 
-###
