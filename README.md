@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg"  />
+  <img height="200" src="https://cdn.pixabay.com/photo/2022/04/08/12/36/internet-7119396_1280.jpg"  />
 </div>
 
 ###
@@ -66,10 +66,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/2004santiago/2004santiago/output/snake.svg" alt="Snake animation" />
 
 ###
 
