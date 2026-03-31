@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: i want to be better than the me of yesterday</p>
+<p align="left">✨ Creating bugs since 2022<br></p>
 
 ###
 
